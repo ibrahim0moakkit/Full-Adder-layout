@@ -1,4 +1,4 @@
-# Full-Adder-layout
+# Full adder layout and simulation
 
 
 
