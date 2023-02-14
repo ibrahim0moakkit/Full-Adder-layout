@@ -8,7 +8,7 @@
 
 
 ## schematic
-![image](https://user-images.githubusercontent.com/108411357/218574403-53dcd11c-e94f-48d2-94cb-405dc3b72121.png)
+![image](https://user-images.githubusercontent.com/108411357/218621684-3a98674e-7cf0-48a5-8ad8-26a589d76f87.png)
 
 
 ## waveforms for the circuit
