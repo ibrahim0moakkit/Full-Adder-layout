@@ -1,5 +1,5 @@
 # Full adder layout and simulation using Electric EDA and LTspice
-
+## Passed ERC and DRC checks successfully 
 
 
 ## layout
@@ -24,4 +24,4 @@
 ![image](https://user-images.githubusercontent.com/108411357/218628974-a9f4b3ff-ad7f-40e8-a63a-b13920379fd1.png)
 
 
-Passed ERC and DRC checks
+
