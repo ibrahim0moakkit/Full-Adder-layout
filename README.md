@@ -3,8 +3,9 @@
 
 
 ## layout
+![image](https://user-images.githubusercontent.com/108411357/218616500-3c3d0db8-c888-4b52-8c7a-f6aa65e4ab16.png)
 
-![image](https://user-images.githubusercontent.com/108411357/218572308-52770d94-c945-4499-bf59-5d4d89d3f40e.png)
+
 
 
 ## schematic
@@ -17,6 +18,8 @@
 
 
 ## waveforms for the layout
-![image](https://user-images.githubusercontent.com/108411357/218573492-468b537d-0de4-451d-ade9-9abc83c11be1.png)
+![image](https://user-images.githubusercontent.com/108411357/218616340-d97c24c8-a9bd-4db9-ab3d-08b06ed4f41e.png)
+
 
 ## stick diagram
+
