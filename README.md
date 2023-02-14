@@ -1,4 +1,4 @@
-# Full adder layout and simulation
+# Full adder layout and simulation using Electric EDA
 
 
 
