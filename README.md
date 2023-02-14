@@ -12,7 +12,7 @@
 
 
 ## waveforms for the circuit
-![image](https://user-images.githubusercontent.com/108411357/218575988-35652667-35cd-4dc0-869a-c7103e46e3c4.png)
+![image](https://user-images.githubusercontent.com/108411357/218621206-1d985965-b207-4264-8571-5f3aeaf649d3.png)
 
 
 
