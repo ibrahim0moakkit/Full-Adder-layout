@@ -1,5 +1,6 @@
 # Full adder layout and simulation using Electric EDA and LTspice
 ## Passed ERC and DRC checks successfully 
+(This layout isn't fully optimized. It was my first attempt ever. However, after my internship at Golden Electronics, I can make significant improvements to it.)
 
 
 ## layout
